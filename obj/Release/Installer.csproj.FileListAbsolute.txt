@@ -1,0 +1,7 @@
+C:\Users\Antonio\source\repos\Installer\Installer\bin\Release\FuckUncleJackInstaller.exe.config
+C:\Users\Antonio\source\repos\Installer\Installer\bin\Release\FuckUncleJackInstaller.exe
+C:\Users\Antonio\source\repos\Installer\Installer\bin\Release\FuckUncleJackInstaller.pdb
+C:\Users\Antonio\source\repos\Installer\Installer\obj\Release\Installer.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\Installer\Installer\obj\Release\Installer.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Installer\Installer\obj\Release\FuckUncleJackInstaller.exe
+C:\Users\Antonio\source\repos\Installer\Installer\obj\Release\FuckUncleJackInstaller.pdb
